@@ -1,6 +1,7 @@
-## Umbrel Community App Store Template
+## Alexandre Petit App Store App Store
 
-This repository is a template to create an Umbrel Community App Store. These additional app stores allow developers to distribute applications without submitting to the [Official Umbrel App Store](https://github.com/getumbrel/umbrel-apps).
+This repository contains the Alexandre Petit Umbrel App Store. This app store is a community app store that is not maintained by the Umbrel team. It is maintained by Alexandre Petit. 
+These additional app stores allow developers to distribute applications without submitting to the [Official Umbrel App Store](https://github.com/getumbrel/umbrel-apps).
 
 ## How to use:
 

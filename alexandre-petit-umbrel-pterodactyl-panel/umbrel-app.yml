@@ -1,5 +1,5 @@
 manifestVersion: 1
-id: pterodactyl-panel
+id: alexandre-petit-umbrel-pterodactyl-panel
 name: Pterodactyl Panel
 tagline: Pterodactyl is a open-source game server management panel built with PHP, React, and Go.
 icon: https://imgur.com/sBMl4Mv
